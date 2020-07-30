@@ -12,3 +12,6 @@ this is my first time!
 
 # when will the pack be finished?
 i dont have an answer for that. it could take years! i'm only doing this for fun.
+
+# what version of the game is it for?
+i will try to keep it updated for the latest available version, at least while i still work on it.
